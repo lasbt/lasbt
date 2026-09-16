@@ -7,7 +7,7 @@
 <img
   align="right"
   src="https://github.com/lqlcj/mona-loading/blob/main/loding/mona-loading.gif?raw=true"
-  width="180"
+  width="200"
   alt="Mona loading"
 />
 
